@@ -1,0 +1,1 @@
+keytool -genkey -keyalg RSA -alias hivemq -keystore hivemq.jks -storepass 123456 -validity 360 -keysize 2048 -keypass 123456
